@@ -1,0 +1,59 @@
+@media (min-width: 768px) {
+    .data {
+        margin-left: 105px;
+    }
+
+    .desc {
+        margin-left: 100px;
+    }
+
+    .category {
+        margin-left: 120px;
+    }
+
+    .sum {
+        margin-left: 80px;
+    }
+}
+
+@media (min-width: 1200px) {
+.data {
+    margin-left: 53px;
+}
+
+.desc {
+    margin-left: 120px;
+}
+
+.category {
+    margin-left: 155px;
+}
+
+.sum {
+    margin-left: 120px;
+}
+}
+
+/* ======================= */
+.data1 {
+     width: 115px;
+     margin-right: 20px;
+     text-align: center;
+}
+
+.desc1 {
+    width: 100px;
+    text-align: center;
+}
+
+.category1 {
+    width: 185px;
+    text-align: center;
+    margin-left: 50px;
+}
+
+.sum1 {
+    width: 152px;
+    text-align: center;
+    
+}
