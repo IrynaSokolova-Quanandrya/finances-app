@@ -42,5 +42,8 @@ export const router = createBrowserRouter(
                 }
             ]
         },
-    ]
+    ],
+    {
+     basename: "/finances-app",
+        }
 )
