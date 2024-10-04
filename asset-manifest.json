@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/IrynaSokolova-Quanandrya.github.io/finances-app/static/css/main.1555eae2.css",
-    "main.js": "/IrynaSokolova-Quanandrya.github.io/finances-app/static/js/main.8e036402.js",
-    "static/media/heroBg.png": "/IrynaSokolova-Quanandrya.github.io/finances-app/static/media/heroBg.449514bedd10b314e1a3.png",
-    "static/media/financebg.png": "/IrynaSokolova-Quanandrya.github.io/finances-app/static/media/financebg.290f7d1086e158a4e855.png",
-    "static/media/heroBg2.png": "/IrynaSokolova-Quanandrya.github.io/finances-app/static/media/heroBg2.b6d39ba12d7a66e97185.png",
-    "index.html": "/IrynaSokolova-Quanandrya.github.io/finances-app/index.html",
-    "main.1555eae2.css.map": "/IrynaSokolova-Quanandrya.github.io/finances-app/static/css/main.1555eae2.css.map",
-    "main.8e036402.js.map": "/IrynaSokolova-Quanandrya.github.io/finances-app/static/js/main.8e036402.js.map"
+    "main.css": "/finances-app/static/css/main.1555eae2.css",
+    "main.js": "/finances-app/static/js/main.afe62474.js",
+    "static/media/heroBg.png": "/finances-app/static/media/heroBg.449514bedd10b314e1a3.png",
+    "static/media/financebg.png": "/finances-app/static/media/financebg.290f7d1086e158a4e855.png",
+    "static/media/heroBg2.png": "/finances-app/static/media/heroBg2.b6d39ba12d7a66e97185.png",
+    "index.html": "/finances-app/index.html",
+    "main.1555eae2.css.map": "/finances-app/static/css/main.1555eae2.css.map",
+    "main.afe62474.js.map": "/finances-app/static/js/main.afe62474.js.map"
   },
   "entrypoints": [
     "static/css/main.1555eae2.css",
-    "static/js/main.8e036402.js"
+    "static/js/main.afe62474.js"
   ]
 }
