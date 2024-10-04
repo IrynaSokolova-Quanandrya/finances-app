@@ -2,7 +2,7 @@
   "name": "finances-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "IrynaSokolova-Quanandrya.github.io/finances-app/",
+  "homepage": "https://IrynaSokolova-Quanandrya.github.io/finances-app/",
   "dependencies": {
     "@react-oauth/google": "^0.12.1",
     "@reduxjs/toolkit": "^2.2.3",
